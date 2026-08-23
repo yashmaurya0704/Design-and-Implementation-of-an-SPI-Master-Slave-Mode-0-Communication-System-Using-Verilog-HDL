@@ -5,6 +5,7 @@ This project implements a Serial Peripheral Interface (SPI) Master-Slave communi
 The project was designed, simulated, and verified using Xilinx Vivado. The SPI Master generates the serial clock (SCLK), controls the Chip Select (CS), and transmits data through MOSI, while the Slave receives the transmitted data and returns data through MISO.
 
 Key Features:
+
 SPI Master-Slave communication
 SPI Mode 0 operation
 Full-duplex serial communication
