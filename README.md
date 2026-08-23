@@ -15,8 +15,6 @@ Configurable clock division for SPI clock generation
 Verilog HDL RTL implementation
 Functional simulation and waveform verification in Vivado
 
-Project Verification
-
+Project Verification:
 The design was tested using a Verilog testbench in Vivado. Simulation waveforms were analyzed to verify correct CS, SCLK, MOSI, and MISO timing and data transfer according to SPI Mode 0 protocol.
-
 This project demonstrates practical experience in RTL design, FSM implementation, serial communication protocols, clock generation, and functional verification using Vivado.
